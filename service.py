@@ -4,4 +4,5 @@ c = b / a
 print(c)
 
 x = 1 + 2
+x += b + c
 print(x)
